@@ -1,0 +1,9 @@
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\bin\Debug\TestTask4GH.exe.config
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\bin\Debug\TestTask4GH.exe
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\bin\Debug\TestTask4GH.pdb
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\obj\Debug\TestTask4GH.csprojResolveAssemblyReference.cache
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\obj\Debug\TestTask4GH.Form1.resources
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\obj\Debug\TestTask4GH.Properties.Resources.resources
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\obj\Debug\TestTask4GH.csproj.GenerateResource.Cache
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\obj\Debug\TestTask4GH.exe
+E:\Programming\TestTaskForGitHub\TestTask4GH\TestTask4GH\obj\Debug\TestTask4GH.pdb
