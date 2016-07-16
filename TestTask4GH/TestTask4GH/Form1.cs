@@ -31,5 +31,10 @@ namespace TestTask4GH
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
