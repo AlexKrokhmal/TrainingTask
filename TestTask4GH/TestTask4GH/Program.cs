@@ -18,5 +18,10 @@ namespace TestTask4GH
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+		
+		static void test()
+		{
+		
+		}
     }
 }
