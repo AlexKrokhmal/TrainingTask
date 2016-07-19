@@ -19,12 +19,12 @@ namespace TestTask4GH
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            // some new content was added here!
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            int i = 0;
         }
 
         private void label1_Click(object sender, EventArgs e)
